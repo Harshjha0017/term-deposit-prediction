@@ -34,8 +34,6 @@ Business Value
 
 Key Insights from Analysis & Dashboard
 
-You developed a Power BI dashboard (see: `Dashboard.pdf`) that visualizes the campaign results:
-
 Highlights:
 - **Conversion Rate**: **11.7%** overall
 - **Top Performing Contact Method**:  
